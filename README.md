@@ -2,4 +2,4 @@
 
 
 
-In the ``PLM`` directory, all of the relevant scripts to train the language models are stored. The ``models`` directory holds the BM and OU model code, and the ``results`` directory is pretty self-explanatory. 
+In the ``PLM`` directory, all of the relevant scripts to train the language models are stored. The ``models`` directory holds the BM and OU model code, and the ``results`` directory is pretty self-explanatory (because of size issues the result files had to be compressed). 
